@@ -1,16 +1,14 @@
-## Hi there 👋
+# AI机器人社区 · airobot-comm
+聚焦桌面AI机器人领域的开源协作社区，致力于降低AI机器人开发门槛，打造轻量化、可扩展的开源工具与应用生态。
 
-<!--
-**airobot-comm/airobot-comm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 核心开源项目
+| 项目名称 | 项目简介 | 地址 |
+|----------|----------|------|
+| airobot-assistant | 轻量且功能丰富的AI机器人助手核心工程，覆盖多场景交互、功能扩展、生态集成等核心能力 | [airobot-assistant](https://github.com/airobot-comm/airobot-assistant) |
 
-Here are some ideas to get you started:
+## 🤝 加入社区
+- 如果你对AI机器人技术感兴趣，欢迎提交Issue/PR参与项目共建
+- 一起交流技术、打磨产品，让AI机器人开发更简单！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 许可证
+社区核心项目均基于开源许可证发布（详见对应项目仓库），遵循开源协作规范。
