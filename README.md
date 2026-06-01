@@ -1,7 +1,7 @@
 # Ai机器人社区 · airobot-comm
 桌面AI机器人开源社区，致力于打造轻量化、可扩展的airobot开源应用框架，推动AI机器人开发与学习/陪伴/商务领域的商业应用。
 
-## 🌟 核心开源项目
+## 🌟 核心项目
 | 项目名称 | 项目简介 | 地址 |
 |----------|----------|------|
 | ai机器人助手 | 轻量、功能丰富扩展的语音服务AI机器人助手，支持多场景功能扩展、小智ai，coze，dify等云端智能体集成，作者ronnie | [airobot-assistant](https://github.com/airobot-comm/airobot-assistant) |
